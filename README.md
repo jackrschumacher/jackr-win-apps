@@ -1,6 +1,6 @@
 # jackr-win-apps
 
-[![GitHub Release](https://img.shields.io/github/v/release/USERNAME/REPO_NAME)](https://github.com/jackrschumacher/jackr-win-apps/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/jackrschumacher/jackr-win-apps)](https://github.com/jackrschumacher/jackr-win-apps/releases)
 
 
 Apps installed on my Windows systems, separated into folders by device. 
