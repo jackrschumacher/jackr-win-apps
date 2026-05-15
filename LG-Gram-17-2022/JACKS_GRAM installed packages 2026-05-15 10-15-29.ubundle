@@ -1,0 +1,799 @@
+{
+  "export_version": 3,
+  "packages": [
+    {
+      "Id": "7zip",
+      "Name": "7zip",
+      "Version": "26.0.0",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "7zip.install",
+      "Name": "7zip",
+      "Version": "26.0.0",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "Cygwin",
+      "Name": "Cygwin",
+      "Version": "3.6.9",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "DotNet3.5",
+      "Name": "DotNet3.5",
+      "Version": "3.5.20241212",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "Everything",
+      "Name": "Everything",
+      "Version": "1.4.11032",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "Ghostscript",
+      "Name": "Ghostscript",
+      "Version": "10.0.0.20230317",
+      "Source": "community",
+      "ManagerName": "chocolatey",
+      "Updates": {
+        "UpdatesIgnored": true,
+        "IgnoredVersion": "*"
+      }
+    },
+    {
+      "Id": "Ghostscript.app",
+      "Name": "Ghostscript.app",
+      "Version": "10.0.0.20230317",
+      "Source": "community",
+      "ManagerName": "chocolatey",
+      "Updates": {
+        "UpdatesIgnored": true,
+        "IgnoredVersion": "*"
+      }
+    },
+    {
+      "Id": "InkScape",
+      "Name": "InkScape",
+      "Version": "1.4.4",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "KB2919355",
+      "Name": "KB2919355",
+      "Version": "1.0.20160915",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "KB2919442",
+      "Name": "KB2919442",
+      "Version": "1.0.20160915",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "KB2999226",
+      "Name": "KB2999226",
+      "Version": "1.0.20181019",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "KB3033929",
+      "Name": "KB3033929",
+      "Version": "1.0.5",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "KB3035131",
+      "Name": "KB3035131",
+      "Version": "1.0.3",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "KB4019990",
+      "Name": "KB4019990",
+      "Version": "1.0.2",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "arduino",
+      "Name": "Arduino",
+      "Version": "2.3.6",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "audacity",
+      "Name": "Audacity",
+      "Version": "3.7.7",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "auto-dark-mode",
+      "Name": "Auto Dark Mode",
+      "Version": "11.0.0.54",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "bleachbit",
+      "Name": "Bleachbit",
+      "Version": "5.0.2",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "bleachbit.install",
+      "Name": "Bleachbit",
+      "Version": "5.0.2",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "bulk-crap-uninstaller",
+      "Name": "Bulk Crap Uninstaller",
+      "Version": "6.1.0",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "chocolatey",
+      "Name": "Chocolatey",
+      "Version": "2.7.2",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "chocolatey-compatibility.extension",
+      "Name": "Chocolatey Compatibility.extension",
+      "Version": "1.0.0",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "chocolatey-core.extension",
+      "Name": "Chocolatey Core.extension",
+      "Version": "1.4.0",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "chocolatey-dotnetfx.extension",
+      "Name": "Chocolatey Dotnetfx.extension",
+      "Version": "1.0.1",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "chocolatey-misc-helpers.extension",
+      "Name": "Chocolatey Misc Helpers.extension",
+      "Version": "0.0.4",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "chocolatey-os-dependency.extension",
+      "Name": "Chocolatey Os Dependency.extension",
+      "Version": "0.0.1",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "chocolatey-visualstudio.extension",
+      "Name": "Chocolatey Visualstudio.extension",
+      "Version": "1.13.0",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "chocolatey-windowsupdate.extension",
+      "Name": "Chocolatey Windowsupdate.extension",
+      "Version": "1.0.5",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "chocolateygui",
+      "Name": "Chocolateygui",
+      "Version": "3.1.0",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "cura-new",
+      "Name": "Cura New",
+      "Version": "5.12.0",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "diskgenius",
+      "Name": "Diskgenius",
+      "Version": "6.1.1.1742",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "dontsleep",
+      "Name": "Dontsleep",
+      "Version": "10.11.0",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "dontsleep.install",
+      "Name": "Dontsleep",
+      "Version": "10.11.0",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "dotnet-10.0-desktopruntime",
+      "Name": "Dotnet 10.0 Desktopruntime",
+      "Version": "10.0.7",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "dotnet-8.0-desktopruntime",
+      "Name": "Dotnet 8.0 Desktopruntime",
+      "Version": "8.0.27",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "dotnetfx",
+      "Name": "Dotnetfx",
+      "Version": "4.8.0.20220524",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "ente-auth",
+      "Name": "Ente Auth",
+      "Version": "4.4.17",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "etcher",
+      "Name": "Etcher",
+      "Version": "2.1.6",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "exiftool",
+      "Name": "Exiftool",
+      "Version": "13.58.0",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "fastfetch",
+      "Name": "Fastfetch",
+      "Version": "2.56.1",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "ffmpeg",
+      "Name": "Ffmpeg",
+      "Version": "8.1.1",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "freac",
+      "Name": "Freac",
+      "Version": "1.1.7",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "freac.portable",
+      "Name": "Freac",
+      "Version": "1.1.7",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "gimp",
+      "Name": "Gimp",
+      "Version": "3.2.4",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "git",
+      "Name": "Git",
+      "Version": "2.54.0",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "git.install",
+      "Name": "Git",
+      "Version": "2.54.0",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "glow",
+      "Name": "Glow",
+      "Version": "2.1.2",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "golang",
+      "Name": "Golang",
+      "Version": "1.26.3",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "goldendict-ng",
+      "Name": "Goldendict Ng",
+      "Version": "26.5.4",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "handbrake",
+      "Name": "Handbrake",
+      "Version": "1.11.1",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "handbrake.install",
+      "Name": "Handbrake",
+      "Version": "1.11.1",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "joytokey",
+      "Name": "Joytokey",
+      "Version": "7.1.0",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "kicad",
+      "Name": "Kicad",
+      "Version": "10.0.2",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "kindle",
+      "Name": "Kindle",
+      "Version": "2.9.71006",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "lazygit",
+      "Name": "Lazygit",
+      "Version": "0.61.1",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "libreoffice-still",
+      "Name": "Libreoffice Still",
+      "Version": "25.8.6",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "localsend",
+      "Name": "Localsend",
+      "Version": "1.17.0",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "localsend.portable",
+      "Name": "Localsend",
+      "Version": "1.17.0",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "makemkv",
+      "Name": "Makemkv",
+      "Version": "1.18.3",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "micro",
+      "Name": "Micro",
+      "Version": "2.0.11",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "mp3tag",
+      "Name": "Mp3tag",
+      "Version": "3.32.0",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "mysql",
+      "Name": "Mysql",
+      "Version": "9.6.0",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "nano",
+      "Name": "Nano",
+      "Version": "7.2.36.20230412",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "nano-win",
+      "Name": "Nano Win",
+      "Version": "7.2.36.20230412",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "nodejs",
+      "Name": "Nodejs",
+      "Version": "26.1.0",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "nodejs.install",
+      "Name": "Nodejs",
+      "Version": "26.1.0",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "notepadplusplus",
+      "Name": "Notepadplusplus",
+      "Version": "8.9.5",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "notepadplusplus.install",
+      "Name": "Notepadplusplus",
+      "Version": "8.9.5",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "okular",
+      "Name": "Okular",
+      "Version": "25.4.0",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "pdfgear",
+      "Name": "Pdfgear",
+      "Version": "2.1.15",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "podman-desktop",
+      "Name": "Podman Desktop",
+      "Version": "1.27.1",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "putty",
+      "Name": "Putty",
+      "Version": "0.83.0",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "putty.install",
+      "Name": "Putty",
+      "Version": "0.83.0",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "putty.portable",
+      "Name": "Putty",
+      "Version": "0.83.0",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "python",
+      "Name": "Python",
+      "Version": "3.14.5",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "python3",
+      "Name": "Python3",
+      "Version": "3.14.5",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "python312",
+      "Name": "Python312",
+      "Version": "3.12.10",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "python313",
+      "Name": "Python313",
+      "Version": "3.13.13",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "python314",
+      "Name": "Python314",
+      "Version": "3.14.5",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "qalculate",
+      "Name": "Qalculate",
+      "Version": "5.10.0",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "qbittorrent",
+      "Name": "Qbittorrent",
+      "Version": "5.2.0",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "rpi-imager",
+      "Name": "Rpi Imager",
+      "Version": "2.0.8",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "rufus",
+      "Name": "Rufus",
+      "Version": "4.14.0",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "scribus",
+      "Name": "Scribus",
+      "Version": "1.6.2",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "session",
+      "Name": "Session",
+      "Version": "1.14.3",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "sharex",
+      "Name": "Sharex",
+      "Version": "19.0.2",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "slack",
+      "Name": "Slack",
+      "Version": "4.48.102",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "sourcegit",
+      "Name": "Sourcegit",
+      "Version": "2026.10.0",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "sql-server-management-studio",
+      "Name": "Sql Server Management Studio",
+      "Version": "22.6.0",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "ussf",
+      "Name": "Ussf",
+      "Version": "1.5.0",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "vcredist140",
+      "Name": "Vcredist140",
+      "Version": "14.51.36231",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "vcredist2008",
+      "Name": "Vcredist2008",
+      "Version": "9.0.30729.616104",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "vcredist2010",
+      "Name": "Vcredist2010",
+      "Version": "10.0.40219.32503",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "vcredist2012",
+      "Name": "Vcredist2012",
+      "Version": "11.0.61031.20230518",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "vcredist2015",
+      "Name": "Vcredist2015",
+      "Version": "14.0.24215.20170201",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "vcredist2017",
+      "Name": "Vcredist2017",
+      "Version": "14.16.27052",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "visualstudio-installer",
+      "Name": "Visualstudio Installer",
+      "Version": "2.0.7",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "visualstudio2019-workload-vctools",
+      "Name": "Visualstudio2019 Workload Vctools",
+      "Version": "1.0.1",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "visualstudio2019buildtools",
+      "Name": "Visualstudio2019buildtools",
+      "Version": "16.11.55",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "vlc",
+      "Name": "Vlc",
+      "Version": "3.0.23",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "vlc.install",
+      "Name": "Vlc",
+      "Version": "3.0.23",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "webview2-runtime",
+      "Name": "Webview2 Runtime",
+      "Version": "148.0.3967.54",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "wingetui",
+      "Name": "Wingetui",
+      "Version": "3.3.7",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "winmerge",
+      "Name": "Winmerge",
+      "Version": "2.16.56",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "winscp",
+      "Name": "Winscp",
+      "Version": "6.5.6",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "winscp.install",
+      "Name": "Winscp",
+      "Version": "6.5.6",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "wireguard",
+      "Name": "Wireguard",
+      "Version": "1.1.0",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "wiztree",
+      "Name": "Wiztree",
+      "Version": "4.31.0",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "xnviewmp.install",
+      "Name": "Xnviewmp",
+      "Version": "1.10.3",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "yt-dlp",
+      "Name": "Yt Dlp",
+      "Version": "2026.3.17",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "yubico-authenticator",
+      "Name": "Yubico Authenticator",
+      "Version": "7.3.3",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    },
+    {
+      "Id": "zoom",
+      "Name": "Zoom",
+      "Version": "7.0.2.34412",
+      "Source": "community",
+      "ManagerName": "chocolatey"
+    }
+  ],
+  "incompatible_packages_info": "Incompatible packages cannot be installed from UniGetUI, either because they came from a local source (for example Local PC) or because the package manager was unavailable. Nevertheless, they have been listed here for logging purposes.",
+  "incompatible_packages": []
+}
